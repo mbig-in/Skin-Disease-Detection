@@ -80,7 +80,7 @@ $ python3 predict.py -m "Path to torch model" -i "Path to image"
 
 <td>
 
-Mr.Shubham Parkhedkar 
+Mr. Shubham Parkhedkar 
 
 <p align="center">
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS072GHoLgEqAsewUF91RfD8LaNuUKaUa21jw&s"  height="120"
@@ -93,9 +93,6 @@ alt="Shubham Parkhedkar">
 </a>
 </p>
 </td>
-
-
-
 
 
 
