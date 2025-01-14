@@ -83,7 +83,7 @@ $ python3 predict.py -m "Path to torch model" -i "Path to image"
 Mr.Shubham Parkhedkar 
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/60563356?s=400&u=09a4f1f24803e0bd5cdc674e0fa021ca791fe126&v=4"  height="120"
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS072GHoLgEqAsewUF91RfD8LaNuUKaUa21jw&s"  height="120"
 alt="Mudit Jindal">
 </p>
 <p align="center">
